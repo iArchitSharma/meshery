@@ -108,9 +108,7 @@
         - title: "Designs"
           url: concepts/designs
         - title: "Environments"
-          url: concepts/environments
-        - title: "Filters"
-          url: concepts/filters          
+          url: concepts/environments          
         - title: "Models"
           url: concepts/models
           grandchildren: 
