@@ -73,7 +73,7 @@
           url: project/contributing/contributing-server
           grandchildren:
           - title: "- Server Events"
-            url: project/contributing-server-events
+            url: project/contributing/contributing-server-events
           - title: "- Server Errors"
             url: project/contributing/contributing-error
         - title: UI
